@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    self.sentence?.question?.exclamation?
+    self.sentence?.count
   end
 end
